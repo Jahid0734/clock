@@ -1,1 +1,1 @@
-"# analog-clock" 
+"# clock" 
